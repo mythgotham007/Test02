@@ -42,5 +42,8 @@ class coffeemc:
 pythonBean = coffeemc("Python Bean", 83, 20,23)
 pythonBean.printState()
 pythonBean.printState()
-        
+pythonBean = coffeemc("Python Bean1", 33, 33,42)
+pythonBean1.printState()
+pythonBean1.printState()
+                
             
